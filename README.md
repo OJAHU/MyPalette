@@ -1,7 +1,7 @@
 MyPalette
 
-MyPalette は、PC起動時にタスクの通知やメモを確認する Python アプリ
-別途MeMOとの連携が必要 -> 
+MyPalette は、PC起動時にMeMOの内容を参照しながらタスクやメモを通知するPythonアプリ
+MeMOとの内容 -> [github.com](https://github.com/OJAHU/MeMO)
 
 - 構成
 MyPalette.py：アプリの起動スクリプト
