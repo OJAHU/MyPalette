@@ -14,11 +14,11 @@ System.py, GUI.pyとjsonモジュールをimportする
 ### Applicationクラス
 引数, 戻り値なし
 
-1.Settings.jsonを読み込んで、ファイルのパスを設定してSystemプログラムのSystemクラスに渡し、実行する。
+1. Settings.jsonを読み込んで、ファイルのパスを設定してSystemプログラムのSystemクラスに渡し、実行する。
 
-2.Systemクラスの実行結果を表示するためにGUIプログラムのDisplayクラスに渡し、実行する。
+2. Systemクラスの実行結果を表示するためにGUIプログラムのDisplayクラスに渡し、実行する。
 
-3.Displayクラスから再起動の要求があるとループし、 1 が実行される。
+3. Displayクラスから再起動の要求があるとループし、 1 が実行される。
 #### 'Settings.json'ファイルの中身
 {  
   "mymemo": "path/to/MeMO.xlsm",  
