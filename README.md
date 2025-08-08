@@ -1,15 +1,15 @@
-#MyPalette
+# MyPalette
 
 MyPalette は、PC起動時にMeMOの内容を参照しながらタスクやメモを通知し、画面に表示して忘れないようにするためのPythonアプリ
 
 MeMOの内容 -> [github.com(MeMO)](https://github.com/OJAHU/MeMO)
 
-##構成
+## 構成
 - MyPalette.py：アプリの起動スクリプト
 - programs/GUI.py：GUI 表示機能
 - programs/System.py：タスクの内容やメール取得などの処理
 
-##'Settings.json'ファイルの中身
+## 'Settings.json'ファイルの中身
 {  
   "mymemo": "path/to/memo.txt",  
   "mytask": "path/to/tasks.txt",  
