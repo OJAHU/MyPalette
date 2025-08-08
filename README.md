@@ -19,7 +19,7 @@ System.py, GUI.pyとjsonモジュールをimportする
 2. Systemクラスの実行結果を表示するためにGUIプログラムのDisplayクラスに渡し、実行する。
 
 3. Displayクラスから再起動の要求があるとループし、 1 が実行される。
-#### 'Settings.json'ファイルの中身
+### 'Settings.json'ファイルの中身
 {  
   "mymemo": "path/to/MeMO.xlsm",  
   "mytask": "path/to/task.txt",  
