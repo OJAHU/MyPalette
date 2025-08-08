@@ -12,7 +12,7 @@ MeMOの内容 -> [github.com(MeMO)](https://github.com/OJAHU/MeMO)
 ## マイパレット.py
 System.py, GUI.pyとjsonモジュールをimportする
 ### Applicationクラス
-引数, 戻り値なし
+引数なし
 
 1. Settings.jsonを読み込んで、ファイルのパスを設定してSystemプログラムのSystemクラスに渡し、実行する。
 
